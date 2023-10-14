@@ -1,2 +1,1 @@
-# PrepCourse
-2 repos de prueba
+Este repositorio es una prueba para clonar desde github
